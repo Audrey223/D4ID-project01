@@ -1,0 +1,27 @@
+{
+  "name": "d4id-project-01",
+  "version": "1.0.0",
+  "description": "lalala",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audrey223/D4ID-project-01.git"
+  },
+  "keywords": [
+    "la",
+    "la",
+    "la"
+  ],
+  "author": "audrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Audrey223/D4ID-project-01/issues"
+  },
+  "homepage": "https://github.com/Audrey223/D4ID-project-01#readme",
+  "dependencies": {
+    "tippy.js": "^6.1.0"
+  }
+}
